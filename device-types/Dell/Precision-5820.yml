@@ -1,0 +1,21 @@
+---
+manufacturer: Dell
+model: Precision 5820
+slug: dell-precision-5820
+part_number: Precision-5820
+u_height: 10
+is_full_depth: true
+airflow: front-to-rear
+weight: 14.51
+weight_unit: kg
+front_image: true
+rear_image: true
+subdevice_role: parent
+is_powered: true
+comments: '[Owners Manual](https://dl.dell.com/content/manual32840811-dell-precision-5820-tower-owner-s-manual.pdf?language=en-us)'
+power-ports:
+  - name: Power 1
+    type: iec-60320-c14
+interfaces: 
+  - name: Intel(R) Ethernet Connection (5) I219-LM
+    type: 1000base-t
